@@ -65,4 +65,4 @@ $SP().list('ListName').get({
 
 ## More information
 
-Please visit the [online documentation](http://aymkdn.github.com/SharepointPlus/) to know more.
+Please visit the [online documentation](https://github.com/karthickrr/Sharepointplus/) to know more.
